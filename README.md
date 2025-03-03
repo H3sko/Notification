@@ -20,9 +20,3 @@ HOURLY:
 (retired)
 - mtbiker_notification():
 scrapes https://www.mtbiker.sk/bazar
-
-
-
-#TODO
-- ukraine_radiation_notification() (every minute)
-
